@@ -1,4 +1,4 @@
-```python
+
 # Problem: 238. Product of Array Except Self
 # LeetCode: https://leetcode.com/problems/product-of-array-except-self/
 # Difficulty: Medium
@@ -31,4 +31,3 @@ class Solution:
             suffix *= nums[i]
 
         return answer
-```
